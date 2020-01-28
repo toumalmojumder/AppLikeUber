@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150625989802",
+    "firebase_url": "https://app-like-uber-ed399.firebaseio.com",
+    "project_id": "app-like-uber-ed399",
+    "storage_bucket": "app-like-uber-ed399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150625989802:android:201f5b82e8275f1d51ccd3",
+        "android_client_info": {
+          "package_name": "com.toumal.applikeuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150625989802-jquht6glq9h8icdlhl0dna7u43f5ps6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toumal.applikeuber",
+            "certificate_hash": "3e832ba288f55aab1bd358ec1f56e14f98990524"
+          }
+        },
+        {
+          "client_id": "150625989802-ac0tr1anvckfo0gd3tr00amvgdehgj4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1n3RIlsgBPX8Px1DJ6XB1QqXU10WLr6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150625989802-ac0tr1anvckfo0gd3tr00amvgdehgj4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
